@@ -17,7 +17,7 @@ Two players take turns naming Russian cities. Each city must start with the last
 - **Auto-validated** against a bundled database of **~400 real Russian cities** (from Абакан to Яхрома)
 - **Forbidden letters** (`ь`, `ъ`, `ы`, `й`, `ё`) auto-skipped — the game picks the previous real letter
 - **No repeats** — once a city is named, it's off the board
-- **Score** = number of letters in the city you name (Питер = +6, Ялта = +4)
+- **Score** = number of letters in the city you name (Ялта = +4, Москва = +6, Санкт-Петербург = +15)
 
 ### 💖 Lives & Timer
 - **3 lives per player** — lose one on a timeout, keep playing
